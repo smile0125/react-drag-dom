@@ -1,0 +1,15 @@
+{
+  "name": "react-drag-dom",
+  "version": "1.0.0",
+  "description": "快速拖拽页面元素",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "拖拽",
+    "drag"
+  ],
+  "author": "smile0125",
+  "license": "ISC"
+}
