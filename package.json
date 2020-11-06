@@ -1,6 +1,6 @@
 {
   "name": "react-drag-dom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "快速拖拽页面元素",
   "main": "index.js",
   "scripts": {
