@@ -1,14 +1,15 @@
 {
   "name": "react-drag-dom",
-  "version": "1.0.1",
-  "description": "快速拖拽页面元素",
+  "version": "1.0.4",
+  "description": "Quickly drag and drop page elements",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "拖拽",
-    "drag"
+    "Drag",
+    "Quickly",
+    "Multiple"
   ],
   "author": "smile0125",
   "license": "ISC"
