@@ -1,6 +1,6 @@
 {
   "name": "react-drag-dom",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Quickly drag and drop page elements",
   "main": "index.js",
   "scripts": {
