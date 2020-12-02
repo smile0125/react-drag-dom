@@ -16,7 +16,7 @@ class FirstPage extends React.Component {
         const target1 = this.drag1;
         const target2 = this.drag2;
         let targets = [target1, target2]
-        const s = new Drag({ targets, { isExcess: true } });
+        const s = new Drag({ targets, { isExcess: true, defaultZIndex: 600 } });
         s.start();
     }
     render() {
@@ -48,3 +48,4 @@ export default FirstPage;
 | v1.0.2  | 优化                                                   |
 | v1.0.3  | 优化                                                   |
 | v1.0.4  | 新增 isExcess 字段：是否允许拖拽出窗口之外，默认 false |
+| v1.0.5  | 新增 defaultZIndex 字段：浮动的层级，默认 1000 |
