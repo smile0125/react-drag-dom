@@ -16,7 +16,7 @@ class FirstPage extends React.Component {
         const target1 = this.drag1;
         const target2 = this.drag2;
         let targets = [target1, target2]
-        const s = new Drag({ targets }, { isExcess: true, defaultZIndex: 600 });
+        const s = new Drag({ targets, isExcess: true, defaultZIndex: 600 });
         s.start();
     }
     render() {
