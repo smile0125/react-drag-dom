@@ -50,3 +50,4 @@ export default FirstPage;
 | v1.0.4  | 新增 isExcess 字段：是否允许拖拽出窗口之外，默认 false |
 | v1.0.5  | 新增 defaultZIndex 字段：浮动的层级，默认 1000         |
 | v1.0.6  | 优化                                                   |
+| v1.0.7  | 优化                                                   |
